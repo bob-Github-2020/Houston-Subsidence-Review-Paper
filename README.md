@@ -9,6 +9,9 @@ This paper is published at
 Turco, M.J., Greuter, A. and Wang, G. (2025), A Century (1906-2024) of Groundwater and Land Subsidence Studies in 
 Greater Houston Region: A Review. Groundwater, 63: 459-483. https://doi.org/10.1111/gwat.70003
 
+![gwat v63 4 cover](https://github.com/user-attachments/assets/99c6ee2c-23cd-4a6a-b37d-a7dd30887dc2)
+
+
 **Abstract**
 
 The Greater Houston region has undergone substantial land subsidence over the past century, with rapid subsidence occurring 
