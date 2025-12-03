@@ -52,6 +52,8 @@ sustainable groundwater management.
 ![Fig10](https://github.com/user-attachments/assets/9470069c-4cc9-4e22-aecf-4f6de2ccfcd2)
 
 ![Fig12](https://github.com/user-attachments/assets/e4811e22-5d24-46ed-9d22-f6d48554a30c)
+
+
 [Fig1.pdf](https://github.com/user-attachments/files/23914383/Fig1.pdf)
 [Fig2a.pdf](https://github.com/user-attachments/files/23914389/Fig2a.pdf)
 [Fig3.pdf](https://github.com/user-attachments/files/23914390/Fig3.pdf)
